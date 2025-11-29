@@ -6,7 +6,7 @@ import java.util.Scanner;
  * @author (your name)
  * @version (a version number or a date)
  */
-public class Ticket
+public class qn11
 {
         public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
